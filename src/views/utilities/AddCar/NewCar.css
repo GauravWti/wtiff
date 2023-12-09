@@ -1,0 +1,12 @@
+
+.newcar_app {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    height: 100vh;
+    gap: 10px;
+  }
+  .newcar_dropdown-container {
+    width: 300px;
+  }
